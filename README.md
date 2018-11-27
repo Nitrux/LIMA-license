@@ -2,6 +2,8 @@
 
 Lima wants to provide a way for artistic works to keep their integrity intact while at the same time allowing others to modify and distribute modifications.
 
+![](https://i.imgur.com/Wbg1hlh.png)
+
 ## Finally, a license for artists in mind.
 
 Lima wants to provide a way for artistic works to keep their integrity intact while at the same time allowing others to modify and distribute modifications.
@@ -28,4 +30,5 @@ Check the list below, that’s some of the advantages of a work that uses our li
 # Issues
 If you find problems with the contents of this repository please create an issue.
 
+©2015-2017 Lima Licensing Group S.A.
 ©2018 Nitrux Latinoamericana S.C.
