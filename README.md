@@ -31,4 +31,5 @@ Check the list below, that’s some of the advantages of a work that uses our li
 If you find problems with the contents of this repository please create an issue.
 
 ©2015-2017 Lima Licensing Group S.A.
+
 ©2018 Nitrux Latinoamericana S.C.
