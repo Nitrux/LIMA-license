@@ -12,7 +12,7 @@ L.I.M.A. LIcense wants to provide a way for artistic works to keep their integri
 Our license was specially created to cover the scope of various forms of art. The most common open-source licenses were created specifically for computer code.
 
 ## Collaboration en Masse
-The license promotes mutual collaboration between authors and users. This is a key factor in open source, and we would like others to embrace it.
+The license promotes mutual collaboration between authors and users. This is a key factor in open-source, and we would like others to embrace it.
 
 ## Fair and Simple
 This license equally grants rights and obligations to the parties involved. These are simple to follow, understand, execute, and comply with.
