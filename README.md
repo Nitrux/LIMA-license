@@ -1,12 +1,12 @@
-# LIMA License
+# L.I.M.A. License (License for the Integral Maintenance of Artwork)
 
-LIMA License wants to provide a way for artistic works to keep their integrity intact while at the same time allowing others to modify and distribute modifications.
+L.I.M.A. License wants to provide a way for artistic works to keep their integrity intact while at the same time allowing others to modify and distribute modifications.
 
 ![](https://limalicense.com/wp-content/uploads/2015/12/lima_logo_sticky_4.png)
 
 ## Finally, a license for artists in mind.
 
-LIMA LIcense wants to provide a way for artistic works to keep their integrity intact while at the same time allowing others to modify and distribute modifications.
+L.I.M.A. LIcense wants to provide a way for artistic works to keep their integrity intact while at the same time allowing others to modify and distribute modifications.
 
 ## Specialized in Arts
 Our license was specially created to cover the scope of various forms of art. The most common open-source licenses were created specifically for computer code.
