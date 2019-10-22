@@ -32,4 +32,4 @@ If you find problems with the contents of this repository, please create an issu
 
 ©2015-2017 Lima Licensing Group S.A.
 
-©2019 Nitrux Latinoamericana S.C.
+©2018-2019 Nitrux Latinoamericana S.C.
